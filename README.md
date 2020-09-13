@@ -6,3 +6,5 @@ The housing prices depend highly on the closeness to the ocean. This is shown us
   
 Certain variables show high correlations among each other, which is a plus point to this analysis:  
 ![corr](correlation.png)  
+
+A detailed explanation is provided in the codes where we do the exploratory data analysis and build a model to find the best price for a house.
